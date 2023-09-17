@@ -50,4 +50,11 @@ Exploratory Data Analysis: Performed Univariate, Bivariate, and Multivariate ana
 Implementation of Regression models.
 
 ## Findings from EDA
-
+#### Observation:
+Temperature: In the Temperature column, we are able to understand that the demand is low in the winter season, i.e when the temperature is lowest, which may include snowfall.
+Weather conditions: 
+(i) Humidity: Demand for bike rentals is less when humidity is at its lowest and highest point. Demand for bike rentals is high during moderate humidity.
+(ii) Dust: Demand is highest when dust is lowest. As dust in weather increases, demand for bikes decreases.
+(iii) Precipitation: Demand is high when precipitation is low. As precipitation increases, demand for bikes decreases.
+Days of the week: in the Days of the week column, we can observe the pattern of weekdays and weekends. Demand decreases on weekends, whereas on weekdays, the demand increases due to working days.
+Month: In the month column, the demand is lowes in 
