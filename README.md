@@ -58,7 +58,7 @@ Implementation of Regression models.
 <br> (iii) Precipitation: Demand is high when precipitation is low. As precipitation increases, demand for bikes decreases.
 <br><br> Wind speed: Demand for bike rentals is highest during low wind days. As wind speed increases, demand for bikes decreases.
 <br><br> Days of the week: in the Days of the Week column, we can observe the pattern of weekdays and weekends. Demand decreases on weekends, whereas on weekdays, the demand increases due to working days.
-<br><br> Month: In the month column, the demand is lowest in 
+<br><br> Month: In the month column, the demand is lowest in the months of January and February, maybe because of the cold weather and the demand was at its peak in the months of September and October. Also, the demand trend was the same throughout the day for each month. It was at peak at 8 a.m. and 6 p.m.
 
 ## List of Models
 <br>
