@@ -52,10 +52,10 @@ Implementation of Regression models.
 ## Findings from EDA
 #### Observation:
 <br> Temperature: In the Temperature column, we are able to understand that the demand is low in the winter season, i.e when the temperature is lowest, which may include snowfall.
-Weather conditions: 
+<br><br> Weather conditions: 
 <br> (i) Humidity: Demand for bike rentals is less when humidity is at its lowest and highest point. Demand for bike rentals is high during moderate humidity.
 <br> (ii) Dust: Demand is highest when dust is lowest. As dust in the weather increases, demand for bikes decreases.
 <br> (iii) Precipitation: Demand is high when precipitation is low. As precipitation increases, demand for bikes decreases.
-<br> Wind speed: During low wind days, demand for bike rentals is highest. As wind speed increases, demand for bikes decreases.
-<br> Days of the week: in the Days of the Week column, we can observe the pattern of weekdays and weekends. Demand decreases on weekends, whereas on weekdays, the demand increases due to working days.
-<br> Month: In the month column, the demand is lowest in 
+<br><br> Wind speed: Demand for bike rentals is highest during low wind days. As wind speed increases, demand for bikes decreases.
+<br><br> Days of the week: in the Days of the Week column, we can observe the pattern of weekdays and weekends. Demand decreases on weekends, whereas on weekdays, the demand increases due to working days.
+<br><br> Month: In the month column, the demand is lowest in 
