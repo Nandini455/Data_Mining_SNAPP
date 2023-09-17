@@ -59,3 +59,16 @@ Implementation of Regression models.
 <br><br> Wind speed: Demand for bike rentals is highest during low wind days. As wind speed increases, demand for bikes decreases.
 <br><br> Days of the week: in the Days of the Week column, we can observe the pattern of weekdays and weekends. Demand decreases on weekends, whereas on weekdays, the demand increases due to working days.
 <br><br> Month: In the month column, the demand is lowest in 
+
+## List of Models
+<br>
+Linear Regression
+<br> Ridge Regression
+<br> Lesso Regression
+<br> XGBRegressor
+<br> Random Forest Regressor
+<br> Decision Tree Regressor
+<br> Support Vector Machine (SVM)
+
+<br><br>
+The best-performing model on the test set is XGBRegressor, followed by RandomForestRegressor, DecisionTreeRegressor, RidgeRegression, LassoRegression, LinearRegression, and SVM. These rankings are based on the RMSE, and lower RMSE values indicate better model performance.
