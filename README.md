@@ -16,18 +16,18 @@ The dataset used in this project is the Seoul Bike Share program data. This data
 
 #### The Seoul Bike Dataset contains the following information:
 Day - Day of the week
-Date - Date of the month
-Month - Month of the year
-Year - Year of drop off/ pick up
-Hour - Hour of the day
-Temperature - Temperature recorded in the city in Celsius (°C).
-Humidity - Relative humidity in %
-Wind speed - Speed of the wind in m/s
-Visibility - Measure of distance at which object or light can be clearly discerned in units of 10m
-Dew point temperature - Temperature recorded in the beginning of the day in Celsius(°C).
-Solar radiation - Intensity of sunlight in MJ/m^2
-Rainfall - Amount of rainfall received in mm
-Snowfall - Amount of snowfall received in cm
+<br>Date - Date of the month
+<br>Month - Month of the year
+<br>Year - Year of drop off/ pick up
+<br>Hour - Hour of the day
+<br>Temperature - Temperature recorded in the city in Celsius (°C).
+<br>Humidity - Relative humidity in %
+<br>Wind speed - Speed of the wind in m/s
+<br>Visibility - Measure of distance at which object or light can be clearly discerned in units of 10m
+<br>Dew point temperature - Temperature recorded in the beginning of the day in Celsius(°C).
+<br>Solar radiation - Intensity of sunlight in MJ/m^2
+<br>Rainfall - Amount of rainfall received in mm
+<br>Snowfall - Amount of snowfall received in cm
 
 ## Rented Bike count - Count of bikes rented (target variable)
 
@@ -35,10 +35,10 @@ Snowfall - Amount of snowfall received in cm
 The programming language used in this project is Python. The following libraries were used for data analysis and data visualization and to build a classifier for prediction.
 
 Pandas: For loading the dataset and performing data wrangling
-Matplotlib: For data visualization.
-Seaborn: For data visualization.
-NumPy: For some math operations in predictions.
-Statsmodels: For statistical computations
+<br>Matplotlib: For data visualization.
+<br>Seaborn: For data visualization.
+<br>NumPy: For some math operations in predictions.
+<br>Statsmodels: For statistical computations
 
 ## Purpose of analysis, prediction and evaluation
 
